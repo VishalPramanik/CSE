@@ -5,15 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://vishalpramanik.github.io/CSE/"><img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=googlechrome&logoColor=white" alt="Project Page"></a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://cvpr.thecvf.com/"><img src="https://img.shields.io/badge/CVPR-2026-4b44ce.svg" alt="CVPR 2026"></a>
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python"></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg" alt="PyTorch"></a>
+  <b>CVPR 2026</b>
 </p>
 
 <p align="center">
-  <a href="https://vishalpramanik.github.io/CSE/">Project Page</a> •
   <a href="#overview">Overview</a> •
   <a href="#installation">Installation</a> •
   <a href="#quick-start">Quick Start</a> •
