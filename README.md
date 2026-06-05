@@ -200,12 +200,13 @@ end-to-end variance-collapse integration test).
 ## Citation
 
 ```bibtex
-@inproceedings{pramanik2026cse,
-  title     = {Selective Amnesia using Contrastive Subnet Erasure for Class-Level Unlearning in Vision Models},
-  author    = {Pramanik, Vishal and Maliha, Maisha and Jha, Susmit and
-               Velasquez, Alvaro and Kotevska, Olivera and Jha, Sumit Kumar},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2026}
+@InProceedings{Pramanik_2026_CVPR,
+    author    = {Pramanik, Vishal and Maliha, Maisha and Jha, Susmit and Velasquez, Alvaro and Kotevska, Olivera and Jha, Sumit Kumar},
+    title     = {Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {31662-31671}
 }
 ```
 
