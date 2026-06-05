@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cse-unlearning"
+version = "1.0.0"
+description = "Contrastive Subnet Erasure (CSE): training-free, encoder-centric class-level unlearning for vision models."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Vishal Pramanik", email = "vishalpramanik@ufl.edu" },
+]
+keywords = ["machine unlearning", "concept erasure", "interpretability", "computer vision", "CVPR"]
+dependencies = [
+    "torch>=2.0",
+    "torchvision>=0.15",
+    "numpy>=1.23",
+    "scipy>=1.10",
+    "scikit-learn>=1.1",
+    "tqdm>=4.64",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.urls]
+Paper = "https://openaccess.thecvf.com/content/CVPR2026/html/Pramanik_Selective_Amnesia_using_Contrastive_Subnet_Erasure_for_Class_Level_Unlearning_CVPR_2026_paper.html"
+Repository = "https://github.com/VishalPramanik/CSE"
+
+[tool.setuptools.packages.find]
+include = ["cse*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
