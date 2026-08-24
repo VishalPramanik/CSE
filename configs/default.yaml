@@ -1,0 +1,9 @@
+cse:
+  alpha: 0.01
+  k_max: 50
+  eigen_fraction: 0.30
+  coverage: 0.85
+  tau0: 0.10
+  lambda0: 0.50
+  epsilon: 1.0e-6
+  non_target_fraction: 0.10
