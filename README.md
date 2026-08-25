@@ -146,5 +146,5 @@ Classifier heads are not modified by CSE.
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2026},
-    pages     = {31662-31671}
+    pages     = {31662--31671}
 }
